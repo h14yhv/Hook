@@ -1,0 +1,55 @@
+﻿register :register1 
+kernel-mode :kernel-mode1 
+user-mode :user-mode1 
+page directory :page directory1 
+breakpoint :breakpoint
+breakpoints :breakpoints1
+kernel :kernel1 
+Exception :Exception1 
+embedded signatures :embedded signatures1 
+catalog :catalog1 
+process :process1 
+post-mortem :post-mortem(thảo luận vấn đề đã xảy ra)1 
+Live-response :Live-response1 
+Volatile :Volatile1  (Dữ liệu có thể thay đổi ví dụ RAM)
+obfuscate :obfuscate1 
+Registry :Registry1 
+key :key1 
+forensic :forensic1 
+string :string1 
+image :image1 
+dump :dump1 
+physical memory :physical memory1 
+virtual memory :virtual memory1 
+frameworks :frameworks1 
+memory :memory1 
+script :script1 
+crash :crash1 
+header :header1 
+wrapper :wrapper1 
+offset :offset1 
+snapshot :snapshot1 
+page file :page file1 
+driver :driver1 
+file :file1 
+Debugging :Debugging1 
+user name :user name1 
+bus :bus1 
+device :device1 
+code :code1 
+Window :Window1 
+object :object1 
+handle :handle1 
+export :export1 
+import :import1 
+callback :callback1 
+thread :thread1 
+double word :double word1 
+wide character :wchar1 
+symbol :symbol1 
+disassembly :disassembly1 
+assembly :assembly1 
+debugging :debugging1 
+push :push1 
+pop :pop1 
+symbols :symbols1
